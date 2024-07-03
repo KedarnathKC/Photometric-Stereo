@@ -6,9 +6,14 @@ Data folder contains images of four subjects each having 64 images taken from di
 
 Output folder contains the albedo image, estimated surface normals and recovered surface of the four subjects.
 
-Here is a sample input and output images.
+Here is a sample output images.
 
-![Input](data/photometricStereo/yaleB01/yaleB01_P00_Ambient.pgm)
+<!-- ![Input](data/photometricStereo/yaleB01/yaleB01_P00_Ambient.pgm) -->
+Albedo Image:
 ![Albedo](output/PhotometricStereo/AlbedoYaleB01.png)
+
+Estimated Surface Normal:
 ![Surface_Normal](output/PhotometricStereo/EstimatedSurfaceYaleB01.png)
+
+Integrated Height Map
 ![Integrated_Height_Map](output/PhotometricStereo/SurfaceNormalsYaleB01.png)

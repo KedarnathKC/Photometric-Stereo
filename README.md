@@ -9,11 +9,11 @@ Output folder contains the albedo image, estimated surface normals and recovered
 Here is a sample output images.
 
 <!-- ![Input](data/photometricStereo/yaleB01/yaleB01_P00_Ambient.pgm) -->
-Albedo Image:<br>
+<h4>Albedo Image:</h4><br>
 ![Albedo](output/PhotometricStereo/AlbedoYaleB01.png)
 
-Estimated Surface Normal:
+<h4>Estimated Surface Normal:</h4><br>
 ![Surface_Normal](output/PhotometricStereo/EstimatedSurfaceYaleB01.png)
 
-Integrated Height Map
+<h4>Integrated Height Map:</h4><br>
 ![Integrated_Height_Map](output/PhotometricStereo/SurfaceNormalsYaleB01.png)
